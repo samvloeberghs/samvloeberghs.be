@@ -90,7 +90,7 @@
     "normalize.css": "^8.0.1",
     "path": "^0.12.7",
     "preboot": "^7.0.0",
-    "prismjs": "^1.21.0",
+    "prismjs": "^1.24.0",
     "rxjs": "^6.5.5",
     "sanitize-html": "^1.21.1",
     "spdy": "^4.0.2",
